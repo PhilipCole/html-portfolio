@@ -38,7 +38,46 @@
   background-position: center center;
   overflow: hidden;
 }
-
+.hero-image-yorkshire-dales {
+  background-image: url("./images/yorkshire_dales.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center 85%;
+  overflow: hidden;
+}
+.hero-image-north-york-moors {
+  background-image: url("./images/north_york_moors.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  overflow: hidden;
+}
+.hero-image-yorkshire-coast {
+  background-image: url("./images/yorkshire_coast.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center 55%;
+  overflow: hidden;
+}
+.hero-image-lake-district {
+  background-image: url("./images/lake_district.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  overflow: hidden;
+}
+.hero-image-wales {
+  background-image: url("./images/wales.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center 46%;
+  overflow: hidden;
+}
 li {
   list-style: none;
 }
